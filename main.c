@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include "board.h"
 
 void opening(void)
 {
@@ -25,6 +26,10 @@ int main(int argc, char *argv[])
        //2-3. 이동
        //2-4. 동전 줍기
        //2-5. 다음 턴
+       //2-6. if(조건: 모든 플레이어가 한번씩 턴을 돔)
+             //상어 동작
+   //3. 정리 (승자 계산, 출력 등)
+    
        
    
   
